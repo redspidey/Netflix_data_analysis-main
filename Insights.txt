@@ -1,0 +1,75 @@
+💡 FINAL PROJECT INSIGHTS
+
+
+
+🎬 1️⃣ Netflix Content Strategy
+Netflix has more Movies than TV Shows, but…
+Growth of TV Shows is increasing rapidly in recent years.
+
+👉 Conclusion:
+Netflix is shifting focus from Movies → TV Shows.
+
+📈 2️⃣ Massive Growth After 2016
+
+EDA showed huge increase in content after 2016.
+
+👉 Meaning:
+Netflix started aggressive global expansion around 2016.
+
+
+
+🌍 3️⃣ Top Content Producing Countries
+
+Top countries:
+
+United States 🇺🇸
+India 🇮🇳
+United Kingdom 🇬🇧
+
+👉 Meaning:
+Netflix invests heavily in global content.
+
+🎭 4️⃣ Most Popular Genres
+
+Top genres:
+
+International TV Shows
+Dramas
+Documentaries
+
+👉 Meaning:
+Netflix focuses on story-driven content.
+
+🔞 5️⃣ Audience Target
+
+Ratings analysis showed:
+
+Majority content = TV-MA / Mature audience
+
+👉 Meaning:
+Netflix primarily targets adult audience, not kids.
+
+⏳ 6️⃣ Netflix Prefers Recent Content
+
+From statistical analysis:
+
+Movies added after ~4 years
+TV Shows added after ~2 years
+
+👉 Meaning:
+Netflix keeps platform fresh and trending.
+
+📺 7️⃣ Limited Series Strategy
+
+Average TV shows = 1 season
+
+👉 Meaning:
+Netflix tests shows with limited series first.
+
+🎬 8️⃣ Average Movie Duration
+
+Average movie ≈ 100 minutes
+
+👉 Meaning:
+Netflix prefers standard watch-time content.
+
